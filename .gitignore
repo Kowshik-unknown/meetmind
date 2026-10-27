@@ -15,3 +15,6 @@ __pycache__/
 frontend/node_modules/
 frontend/.next/
 frontend/out/
+
+# Preserved nested repository metadata
+frontend/.git-nested-backup/
