@@ -1,0 +1,12 @@
+faster-whisper
+# faster-whisper 1.2.x passes av.open(metadata_errors=...), removed in newer PyAV
+av<16
+fastapi
+uvicorn[standard]
+python-multipart
+httpx
+python-dotenv
+numpy
+yt-dlp
+youtube-transcript-api
+pypdf
